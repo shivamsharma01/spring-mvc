@@ -1,0 +1,10 @@
+.navbar {
+    padding: 0 1rem .8rem 0;
+    max-height: 100px;
+}
+   .logo { 
+    max-height: inherit;
+}
+.navbar-brand {
+    max-height: inherit;
+}

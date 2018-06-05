@@ -1,0 +1,30 @@
+footer.page-footer {
+	bottom: 0;
+	color: #fff;
+}
+
+.font-small {
+	font-size: .9rem;
+}
+
+.blue {
+	background-color: #2196f3 !important;
+}
+
+.pt-4, .py-4 {
+	padding-top: 1.5rem !important;
+}
+
+.mt-4, .my-4 {
+	margin-top: 1.5rem !important;
+}
+
+a {
+	color: #FFFFFF;
+}
+
+footer.page-footer .footer-copyright {
+    overflow: hidden;
+    background-color: rgba(0,0,0,.2);
+    color: rgba(255,255,255,.6);
+}
