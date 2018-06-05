@@ -1,0 +1,14 @@
+.navbar {
+    padding: 0 1rem .8rem 0;
+    max-height: 100px;
+}
+   .logo { 
+    max-height: inherit;
+}
+.navbar-brand {
+    max-height: inherit;
+}
+.nav-bg {
+    background: red; /* For browsers that do not support gradients */
+    background: linear-gradient(to left, rgba(255,0,0,0), rgba(255,0,0,1));
+}
