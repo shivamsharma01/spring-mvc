@@ -9,15 +9,18 @@ html, body {
 	font-family: 'Comic Sans MS', "calibri", Garamond;
 }
 
-.fontstyle
-{
-	font-family:"Open sans";
-	font-weight:300;
-	font-size:16px;
+.fontstyle {
+	font-family: "Open sans";
+	font-weight: 300;
+	font-size: 16px;
 }
 
 .center {
 	text-align: center;
+}
+
+.underline {
+	text-decoration: underline;
 }
 
 #container {

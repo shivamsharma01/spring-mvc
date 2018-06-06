@@ -5,29 +5,22 @@
 		<!-- Grid row -->
 		<div class="row">
 			<!-- Grid column -->
-			<div class="col-lg-6 col-md-6">
+			<div class="col-lg-12 col-md-12">
 				<!-- Content -->
-				<h5 class="text-uppercase">Footer Content</h5>
-				<p>Here you can use rows and columns here to organize your
-					footer content.</p>
+				<h5 class="text-uppercase underline">
+					<em>NPTEL Portal</em>
+				</h5>
+				<p>
+					For Any Queries Or Suggestions Feel Free To Drop Me An Email : <span
+						class="underline">SHIVAMSHARMA.ADE@GMAIL.COM</span>
+				</p>
 			</div>
-			<!-- Grid column -->
-			<div class="col-lg-1 offset-lg-5 col-md-1 offset-md-5">
-				<!-- Links -->
-				<ul class="list-unstyled">
-					<li><a href="#!">Link 1</a></li>
-					<li><a href="#!">Link 2</a></li>
-					<li><a href="#!">Link 3</a></li>
-					<li><a href="#!">Link 4</a></li>
-				</ul>
-			</div>
-			<!-- Grid column -->
 		</div>
 		<!-- Grid row -->
 	</div>
 	<!-- Footer Links -->
 	<!-- Copyright -->
-	<div class="footer-copyright text-center py-3">
+	<div class="footer-copyright text-center py-2">
 		© 2018 Copyright: <a href="${pageContext.servletContext.contextPath}">
 			NPTEL.com</a>
 	</div>

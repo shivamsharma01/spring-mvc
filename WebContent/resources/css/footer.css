@@ -17,6 +17,7 @@ footer.page-footer {
 
 footer.page-footer .footer-copyright {
 	overflow: hidden;
+	background: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(2, 0, 0, 1));
 	background-color: rgba(0, 0, 0, .6);
 	color: rgba(255, 255, 255, .6);
 }
