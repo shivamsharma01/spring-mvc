@@ -11,20 +11,12 @@ footer.page-footer {
 	background-color: #2196f3 !important;
 }
 
-.pt-4, .py-4 {
-	padding-top: 1.5rem !important;
-}
-
-.mt-4, .my-4 {
-	margin-top: 1.5rem !important;
-}
-
-a {
+.page-footer a {
 	color: #FFFFFF;
 }
 
 footer.page-footer .footer-copyright {
-    overflow: hidden;
-    background-color: rgba(0,0,0,.2);
-    color: rgba(255,255,255,.6);
+	overflow: hidden;
+	background-color: rgba(0, 0, 0, .6);
+	color: rgba(255, 255, 255, .6);
 }
