@@ -14,22 +14,21 @@
 		</button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav mr-auto">
-				<li class="nav-item active"><a class="nav-link" href="#">Home
+				<li class="nav-item active"><a class="nav-link" href="${pageContext.servletContext.contextPath}">Home
 						<span class="sr-only">(current)</span>
 				</a></li>
-				<li class="nav-item"><a class="nav-link" href="#">About</a></li>
+				<li class="nav-item"><a class="nav-link" href="#about">About</a></li>
 				<li class="nav-item"><a class="nav-link" href="#">FAQ</a></li>
 				<li class="nav-item"><a class="nav-link" href="#">Career</a></li>
 			</ul>
 			<a class="btn btn-md "
 				href="${pageContext.servletContext.contextPath}/register"
 				style="margin-top: 10px; border-top-width: 1px">
-				<button type="button" class="btn btn-outline-primary white">Sign
-					Up</button>
+				<button type="button" class="btn btn-outline-primary white"><i class="fa fa-user"></i> Register</button>
 			</a> <a class="btn btn-md "
 				href="${pageContext.servletContext.contextPath}/login"
 				style="margin-top: 10px; border-top-width: 1px">
-				<button type="button" class="btn btn-outline-primary white">Login</button>
+				<button type="button" class="btn btn-outline-primary white"><i class="fa fa-sign-in"></i> Login</button>
 			</a>
 		</div>
 	</nav>
